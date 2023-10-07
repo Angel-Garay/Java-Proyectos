@@ -1,0 +1,13 @@
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/modelo/dao/Crud.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/modelo/persistencia/ProfesorJpaController.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/modelo/dao/ProfesorDaoImpl.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/modelo/persistencia/exceptions/IllegalOrphanException.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/modelo/Profesor.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/contralador/SvBajas.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/modelo/persistencia/exceptions/NonexistentEntityException.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/mycompany/dbfinal/clase12/JAXRSConfiguration.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/modelo/persistencia/exceptions/PreexistingEntityException.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/mycompany/dbfinal/clase12/resources/JavaEE8Resource.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/modelo/dao/ProfesorDao.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/contralador/SvAltas.java
+/home/angel/Documentos/Git/Java-Proyectos/dbfinal/dbfinal-clase12/src/main/java/com/unju/modelo/persistencia/ControladoraPersistencia.java
